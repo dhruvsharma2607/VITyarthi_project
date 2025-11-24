@@ -59,10 +59,10 @@ The system uses:
 Nested Dictionary
 
 students = {"101": 
-             {"name": "John",
-              "course": "BCA",
-              "cgpa": 8.5,
-              "state": "Kerala"}}
+              {"name": "John",
+               "course": "BCA",
+               "cgpa": 8.5,
+               "state": "Kerala"}}
 
 
 
@@ -92,15 +92,15 @@ Main Program Algorithm
 1. Start
 2. Initialize an empty dictionary “students”
 3. Repeat until user chooses Exit:
-      a. Display menu
-      b. Read user choice
-      c. If choice is:
-            1 → add_student()
-            2 → search_student()
-            3 → update_student()
-            4 → delete_student()
-            5 → display_all()
-            6 → Exit
+       a. Display menu
+       b. Read user choice
+       c. If choice is:
+             1 → add_student()
+             2 → search_student()
+             3 → update_student()
+             4 → delete_student()
+             5 → display_all()
+             6 → Exit
 4. End
 
 
