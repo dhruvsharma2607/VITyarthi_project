@@ -58,7 +58,11 @@ The system uses:
 
 Nested Dictionary
 
-students = {"101": {"name": "John","course": "BCA","cgpa": 8.5,"state": "Kerala"}}
+students = {"101": 
+             {"name": "John",
+              "course": "BCA",
+              "cgpa": 8.5,
+              "state": "Kerala"}}
 
 
 
