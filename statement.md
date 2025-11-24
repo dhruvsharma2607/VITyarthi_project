@@ -189,7 +189,7 @@ Only CLI interface
 
 No validations for CGPA/State (optional upgrade)
 
-# 12.🎯 Target Users
+# 12. Target Users
 
 1. Beginner Python Learners
 2. School & College Students
